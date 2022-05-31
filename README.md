@@ -1,16 +1,30 @@
-# appcv
+# Bài tập Flutter cơ bản về một appCV 
 
 A new Flutter project.
 
-## Getting Started
+## Bắt đầu
 
-This project is a starting point for a Flutter application.
+Dự án này là một điểm khởi đầu cho một ứng dụng Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+Một số hình ảnh về sản phẩm trên :
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Tux, the Linux mascot](/assets/1.png)
+![Tux, the Linux mascot](/assets/2.png)
+![Tux, the Linux mascot](/assets/3.png)
+![Tux, the Linux mascot](/assets/4.png)
+![Tux, the Linux mascot](/assets/5.png)
+![Tux, the Linux mascot](/assets/6.png)
+![Tux, the Linux mascot](/assets/7.png)
+![Tux, the Linux mascot](/assets/8.png)
+![Tux, the Linux mascot](/assets/9.png)
+![Tux, the Linux mascot](/assets/10.png)
+![Tux, the Linux mascot](/assets/11.png)
+![Tux, the Linux mascot](/assets/12.png)
+![Tux, the Linux mascot](/assets/13.png)
+![Tux, the Linux mascot](/assets/14.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Để được trợ giúp bắt đầu với Flutter, hãy xem tài liệu trực tuyến của chúng tôi, tài liệu này cung cấp các hướng dẫn, mẫu, hướng dẫn về phát triển thiết bị di động và tài liệu tham khảo.
+
+
+**Nickname** : <span style="colors.green">*Anh Báo*</span>
